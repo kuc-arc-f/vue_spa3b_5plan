@@ -3,7 +3,7 @@
         <router-link :to="'/idx_plan'" class="btn btn-outline-primary mt-2">Back
         </router-link>
         <hr class="mt-2 mb-2" />
-        <h3>Tasks - edit</h3>        
+        <h3>Plan - edit</h3>        
         <div class="form-group">
             <label for="TopicContent">Content :</label>
             <div class="col-sm-8">
